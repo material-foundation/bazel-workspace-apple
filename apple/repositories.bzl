@@ -100,7 +100,7 @@ def apple_workspace_dependencies():
         name = "xctestrunner",
         executable = 1,
         urls = [
-            "https://github.com/jverkoey/xctestrunner/releases/download/0.2.11/ios_test_runner.par",
+            "https://github.com/material-foundation/xctestrunner/releases/download/0.2.10-patch/ios_test_runner.par",
         ],
         sha256 = "a0a8be06b14f787f6017474b1ed33068c616b5b1154cf16e2e7ac3e7f047fd8c",
     )
